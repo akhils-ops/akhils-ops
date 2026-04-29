@@ -1,16 +1,19 @@
-## Hi there 👋
+# 🌍 GIS
 
-<!--
-**akhils-ops/akhils-ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Geospatial processing engine
 
-Here are some ideas to get you started:
+# 📑 LLR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PV Literature review
+
+# 📊 JIRA
+
+JIRA insights
+
+# 🎮 Games
+
+Game development
+
+# 📚 Shared
+
+Shared libraries
