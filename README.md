@@ -4,7 +4,7 @@
 Geospatial processing engine and location-based data tools.
 
 ### 📑 [LLR](./LLR)
-PV (Photovoltaic) Literature review collection and research materials.
+Literature review collection and research materials.
 
 ### 📊 [JIRA](./JIRA)
 JIRA insights, dashboards, and analytics tools.
